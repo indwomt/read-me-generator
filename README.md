@@ -1,5 +1,5 @@
 
-#  Weather App
+#  Professional README Generator
 
 ---
 
@@ -14,21 +14,22 @@
 - [License](#License)
 
 ## Description
-This is a web application that uses third-party APIs to fetch data about current weather conditions and a five-day forecast.
+A Node.js command-line application that allows users to generate README.md files through the NPM package Inquierer. 
 
 ## Usage
-Use it to check the weather! Who needs a weatherman when you have this app?
+Create professional README files for your projects with a predefined template.
 
 ## Installation
-The application can be accessed through the deployed link provided.
+Download files or clone repo, enter 'npm i' into the terminal, then run the command 'node app' or 'npm start'
 
 ## Contributing
 
 
 ## Questions 
-laurendebentley@gmail.com
-indwomt
+For questions contact:
+Email: laurendebentley@gmail.com
+Github:indwomt
 
 ## License
 mit
-        # read-me-generator
+        
